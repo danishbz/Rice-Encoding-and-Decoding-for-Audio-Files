@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Audio files
+*.wav
+*.mp3
+
+# Encoded/decoded output files
+*_Enc.ex2
+*_Enc_Dec.wav
+
+# Environment and package files
+.env
+*.env
+*.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+.DS_Store
+
+# Python virtual environment files
+.Python
+*.pyc
+*.pyo
+.dockerignore
+node_modules/
+
+# Projects and IDE
+.idea/
+.vscode/
+*.sublime-*
+
+# Logs
+logs/
+*.log
+
+# MacOS files
+*.DS_Store
