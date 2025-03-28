@@ -4,10 +4,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Audio files
-*.wav
-*.mp3
-
 # Encoded/decoded output files
 *_Enc.ex2
 *_Enc_Dec.wav
