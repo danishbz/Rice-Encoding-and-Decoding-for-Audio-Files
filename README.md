@@ -8,7 +8,9 @@ This project provides a comprehensive guide and tools for implementing Rice enco
 
 Before you start, ensure you have the necessary Python packages installed:
 
-```pip install tabulate matplotlib numpy```
+```
+pip install tabulate matplotlib numpy
+```
 
 ## Features
 
